@@ -1,3 +1,4 @@
 # SI_2024_lab2_225042
 Damjan Manojlovski 225042
-![Untitled Diagram drawio](https://github.com/Dammjan/SI_2024_lab2_225042/assets/166994650/64781efa-4f9f-4695-ab88-88151c2d87d4)
+![Screenshot 2024-05-26 165244](https://github.com/Dammjan/SI_2024_lab2_225042/assets/166994650/68aab1c2-9c16-4e53-b364-4ed1fa186d5d)
+
